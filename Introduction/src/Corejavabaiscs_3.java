@@ -8,6 +8,9 @@ public class Corejavabaiscs_3 {
 		// String as an object & String as Literal
 		String s1 = "manoj ";
 
+		
+		
+		
 		// if the string value is same then the java won't create extra space it will
 		// re-direct to s1
 
