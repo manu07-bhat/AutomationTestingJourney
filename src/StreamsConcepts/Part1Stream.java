@@ -62,8 +62,6 @@ public class Part1Stream {
 //		Boolean flag = newStream.anyMatch(s -> s.equalsIgnoreCase("Alex"));
 //		System.out.println(flag);
 //		Assert.assertTrue(flag);
-		
-		//
 
 	}
 
