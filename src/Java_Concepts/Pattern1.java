@@ -1,5 +1,6 @@
 package Java_Concepts;
 
+
 public class Pattern1 {
 
 	static void p1() {
@@ -131,9 +132,24 @@ public class Pattern1 {
 		System.out.println(fact);
 	}
 	
+	static void pat()
+	{
+		String s1 ="Welcome";
+		int n =7;
+		for (int i = 0; i <s1.length(); i++) {
+			for (int j = 0; j <s1.length(); j++) {
+				if (i==j) {
+					System.out.print("*"+" ");	
+				}
+			
+			}
+			System.out.println();
+		}
+	}
+	
 	public static void main(String[] args) {
 
-		pal();
+		pat();
 
 	}
 
